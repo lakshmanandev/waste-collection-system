@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Waste Collection Management System
 
 A full-stack monorepo for a waste collection workflow with a mobile scanner for collectors, a Node.js + Express backend, and a responsive Next.js admin dashboard.
@@ -226,3 +227,7 @@ cd waste-collection/admin && npm run dev
 # mobile app
 cd waste-collection/mobile && npm start
 ```
+=======
+# waste-collection-system
+Field waste collection flow: React Native (Expo) collector app, Node.js API, Next.js admin dashboard
+>>>>>>> 0f2608238006686b1923d69416a441da0e0089b8

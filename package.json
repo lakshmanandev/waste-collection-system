@@ -1,0 +1,15 @@
+{
+  "name": "waste-collection-monorepo",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "backend",
+    "mobile",
+    "admin"
+  ],
+  "scripts": {
+    "backend": "npm --prefix backend run dev",
+    "admin": "npm --prefix admin run dev",
+    "mobile": "npm --prefix mobile run start"
+  }
+}

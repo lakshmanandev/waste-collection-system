@@ -1,0 +1,16 @@
+node_modules
+.expo
+.expo-shared
+npm-debug.log*
+.env
+.env.*
+.next
+coverage
+.DS_Store
+*.tsbuildinfo
+backend/dist
+backend/coverage
+admin/.next
+admin/out
+mobile/.expo
+mobile/dist
